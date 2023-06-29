@@ -1,0 +1,21 @@
+MERN - Mongo DB, React.js, Node.js, Express
+
+Front End: 
+1. user side, done in browser. Uses react.js which is a javascript library. could be substituted with angular/vue/etc. Essentially helps
+with user input and output, controls what is seen, etc
+
+
+Back End:
+1. Node.js is an javascript runtime environment, used on the server side. Express is a framework layer on top of node which helps in mana-
+ging servers and routes.
+2. MongoDB is a database program using JSON documents and hence easily integrated.
+3. api Endpoints are basically the end pages i guess
+
+
+Big Idea:
+React takes requests from users in SPA (single page application), communicates to server, received by node and express, which prepare a response and send it back to react
+Communications through HTTP. REST api gives entry points which allows to communicate between the front and the back end. REST api genera-
+lly has PATH + http verb, i.e., ..../products + POST verb or .../products + GET verb.
+
+
+

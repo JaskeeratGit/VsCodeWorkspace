@@ -1,0 +1,5 @@
+javascript lib for building UI 
+Declarative approach: only define the results, not the steps to get to the results through defining 'components' and building UI with
+these components, steps automatically wired by react
+
+Imperative approach: vanilla JS u need to define all the steps
